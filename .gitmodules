@@ -1,0 +1,3 @@
+[submodule "mcp-memory-dashboard"]
+	path = mcp-memory-dashboard
+	url = https://github.com/daoch4n/mcp-memory-dashboard.git
