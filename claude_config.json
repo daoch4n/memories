@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "memory": {
+      "command": "echo",
+      "args": ["Memory service not available"],
+      "env": {
+        "MCP_MEMORY_CHROMA_PATH": "/home/vi/DaokoTube/memories",
+        "MCP_MEMORY_BACKUPS_PATH": "/home/vi/DaokoTube/memories/backups"
+      }
+    }
+  }
+}
